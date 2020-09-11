@@ -1,3 +1,4 @@
+'''Courtesies to StackOverflow'''
 import ctypes
 import time
 
