@@ -22,3 +22,5 @@
 - Simulator : Udacity’s open sourced simulator 
 - Neural Network Architecture used : AlexNet , NVIDIA architecture for autonomous driving
 - Frameworks : Tensorflow 
+ 
+# Some part of the code was taken by sentdex's implementation of Python plays GTAV 
